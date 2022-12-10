@@ -1,0 +1,866 @@
+,idx,Àlies,Nom,Data de naixement,Lloc de naixement,Pos,T,PJ,TG,TV,G
+0,1,Albert Cano,Albert Cano López,01/08/1983,Palma,mig,7,71,20,2,3
+1,2,Riera,Albert Riera Ortega,15/04/1982,Manacor,mig,8,178,28,3,26
+2,3,Prats,Antonio Prats Cervera,09/09/1971,Capdepera,por,18,479,45,5,1
+3,4,Tuni,Antoni Lluis Adrover Colom,14/06/1982,Sóller,mig,11,262,30,0,24
+4,5,Toni Muñoz,Antonio Muñoz Llompart,13/08/1982,Palma,dav,3,34,1,0,2
+5,6,Carmona,Carlos Carmona Bonet,05/07/1987,Palma,mig,19,524,95,7,81
+6,7,David Castedo,David Castedo Escudero,26/01/1974,Palma,def,15,427,66,7,2
+7,8,Feliciano,Feliciano Casanova Arribas,30/11/1965,Eivissa,def,7,157,57,9,5
+8,9,Marcos,Fernando Marcos Santiago,04/12/1968,Felanitx,por,15,186,6,0,0
+9,10,Xisco Nadal,Fernando Sebastián Nadal Martorell,27/06/1986,Palma,dav,9,176,24,6,15
+10,11,Xisco,Francisco Jiménez Tejada,26/06/1986,Santa Ponça,dav,16,328,56,3,93
+11,12,Paco Soler,Francisco Manuel Soler Atencia,05/03/1970,Palma,mig,15,408,50,0,28
+12,13,Xisco Campos,Francisco Javier Campos Coll,10/03/1982,Binissalem,def,21,585,142,9,10
+13,14,Xisco,Francisco Javier Muñoz Llompart,05/09/1980,Manacor,dav,16,332,58,2,54
+14,15,Biel Ribas,Gabriel Ribas Ródenas,02/12/1985,Palma,por,20,445,38,0,0
+15,16,Vidal,Gabriel Vidal Nova,05/10/1969,Palma,mig,14,363,15,1,22
+16,17,Ramis,Iván Andrés Ramis Barrios,25/10/1984,Sa Pobla,def,17,345,96,11,19
+17,18,Mágico Díaz,Javier Díaz Pons,03/02/1968,Sa Pobla,mig,12,245,26,0,23
+18,19,Gálvez,José Gálvez Estévez,03/08/1974,Palma,dav,12,270,5,0,56
+19,20,Josemi,José Miguel Pérez Ruiz,28/01/1976,Palma,dav,13,291,75,9,88
+20,21,Bermell,José Ramón Bermell Sabater,26/03/1962,Palma,por,12,172,5,0,0
+21,22,Martí,Josep Lluís Martí Soler,28/04/1975,Palma,mig,20,591,163,4,23
+22,23,Juanmi,Juan Miguel Gelabert Margüello,26/09/1972,Capdepera,def,16,406,99,6,7
+23,24,Robles,Julián Robles García,23/03/1981,Palma,mig,13,334,90,3,13
+24,25,Magín,Magín Mir Martínez,06/01/1970,Palma,def,12,228,84,16,10
+25,26,Marcos García,Marcos García Barreno,21/03/1987,Sant Antoni de Portmany,mig,14,292,27,3,29
+26,27,Molondro,Miguel Bennasar Mojer,19/10/1964,Sa Pobla,por,8,121,6,1,0
+27,28,Moyá,Miguel Ángel Moyá Rumbo,02/04/1984,Binissalem,por,20,332,14,3,0
+28,29,Buades,Miquel Buades Crespí,04/03/1980,Sa Pobla,def,9,175,46,5,11
+29,30,Miki,Miquel Garro Gomila,20/09/1975,Palma,por,10,157,12,2,0
+30,31,Nadal,Miquel Àngel Nadal Homar,28/07/1966,Manacor,def,21,574,72,10,55
+31,32,Montiel,Óscar Montiel Marín,06/07/1970,Palma,def,13,437,72,1,3
+32,33,Rafita,Rafael Ramos Lozano,18/09/1982,Palma,def,14,376,101,5,24
+33,34,Víctor Casadesús,Víctor Manuel Casadesús Castaño,28/02/1985,S'Arenal,dav,19,519,99,4,116
+34,35,Amer,Damià Amer Munar,04/09/1958,Sa Pobla,def,9,142,29,3,0
+35,36,Villalvilla,Jacinto Villalvilla Bustos,09/08/1963,Palma,por,14,252,15,2,0
+36,37,Molina,Manuel Molina Molina,26/03/1968,Palma,dav,11,176,29,3,25
+37,38,Tomy,Tomás López Blazquez,18/08/1969,Palma,def,7,89,20,3,0
+38,39,Pepe Bonet,José María Bonet Moll,11/12/1957,Palma,mig,9,229,35,3,24
+39,40,Capó,Joan Capó Coll,13/11/1954,Ciutadella de Menorca,por,14,304,7,1,0
+40,41,Llabrés,Arnaldo Llabrés Picó,22/07/1964,Muro,dav,9,165,18,2,28
+41,42,Mesquida,Miguel Mesquida Gomila,30/03/1964,Manacor,mig,6,154,18,3,15
+42,43,Mestre,Bartolomé Mestre Vicens,26/01/1960,Felanitx,dav,11,284,21,0,62
+43,44,Arabí,Antoni Arabí Serra,13/11/1953,Sant Rafel de sa Creu,def,8,173,7,1,7
+44,45,Paco,Francisco Machín Fernández de la Puente,17/11/1958,Palma,dav,10,291,33,1,101
+45,46,Bezares,Juan Bezares García,05/01/1955,Palma,def,9,275,43,2,11
+46,47,Balín,Cristóbal Machín Fernández de la Puente,11/11/1957,Palma,dav,6,78,1,0,2
+47,48,Mesquida,Juan Mesquida García,07/10/1959,Palma,por,4,26,2,0,0
+48,49,Taberner,Francesc Taberner Bonet,27/01/1964,Palma,def,1,1,0,0,0
+49,50,Bennásar,Bartolomé Bennásar Bestard,05/04/1956,Lloseta,por,10,110,5,0,0
+50,51,Juan Carlos,Juan Carlos Sánchez Martínez,27/07/1987,Calvià,por,16,330,35,3,0
+51,52,Alberto,Alberto López Arteseros,09/03/1988,Palma,mig,6,87,30,1,4
+52,53,Rondo,José Luis Rondo Polo,19/03/1976,Palma,def,12,297,79,3,4
+53,54,Ramón,Juan Alberto Ramón Escalas,02/12/1976,Palma,dav,11,240,54,3,39
+54,55,Sastre,Rafel Sastre Reus,22/10/1975,Palma,def,17,510,162,11,13
+55,56,Silvano,José Silvano Ángelo,20/05/1980,Palma,mig,8,110,23,2,3
+56,57,Rodri,Juan Ramón Rodríguez Arbona,22/10/1971,Sóller,def,13,363,115,12,38
+57,58,Iván Acién,Iván Acién Villegas,11/06/1984,Felanitx,dav,1,2,0,0,0
+58,59,Pascual,Antonio Pascual Pascual,19/03/1953,Manacor,por,6,16,0,0,0
+59,60,Palmer,José Palmer Calafell,31/07/1953,Andratx,def,7,101,8,1,3
+60,61,Ferrer Díaz,Antonio Ferrer Díaz,23/04/1949,Eivissa,dav,10,208,15,1,13
+61,62,Llompart,Bartomeu Llompart Coll,06/10/1944,Inca,mig,14,345,11,2,4
+62,63,Mairata,Pedro Mairata Gual,15/01/1979,Mancor de la Vall,def,12,326,67,8,15
+63,64,Gost,Pedro Gost Sastre,16/01/1946,Sa Pobla,por,6,72,0,0,0
+64,65,Bordoy,Gabriel Bordoy Vaquer,20/01/1947,Palma,mig,6,94,1,1,1
+65,66,Roselló,Francisco Domingo Roselló Roca,06/10/1946,Es Mercadal,dav,6,133,6,2,32
+66,67,Nicolau,Rafael Nicolau Rayo,11/11/1947,Inca,por,8,38,0,0,0
+67,68,Biel Medina,Gabriel Medina Piris,22/03/1980,Maó,def,7,190,67,10,14
+68,69,Crespí,Martí Crespí Pascual,15/06/1987,Sa Pobla,def,12,207,55,4,8
+69,70,Raúl Pareja,Raúl Pareja León,12/11/1974,Palma,def,9,201,40,4,7
+70,71,Juanjo,Juan José Dobla Jiménez,21/05/1975,Palma,dav,6,111,17,2,25
+71,72,Manolo,Manuel Moyá Atencia,21/11/1973,Palma,dav,7,170,27,3,50
+72,73,Sacarés,Vicenç Sacarés Gelabert,26/02/1972,Muro,mig,9,166,22,1,2
+73,74,Navarro,José Antonio Navarro Martínez,14/04/1969,Eivissa,por,7,129,14,2,0
+74,75,Pascual,Bartomeu Pascual Rosselló,24/07/1965,Capdepera,por,12,209,2,1,0
+75,76,Galindo,José Domingo Galindo Araya,19/08/1972,Inca,mig,3,37,11,0,1
+76,77,Juanan,Juan Antonio García López,07/10/1972,Palma,def,5,28,5,1,1
+77,78,Samper,Juan José Samper Ferragut,12/04/1969,Palma,dav,8,192,33,4,42
+78,79,Verger,Tomeu Verger Rossinyol,31/07/1974,Montuïri,dav,1,1,0,0,0
+79,80,Capó,Gabriel Capó Crespí,22/08/1974,Palma,mig,1,1,0,0,0
+80,81,Nadal,Sebastián Nadal Mejías,03/10/1963,Palma,dav,11,235,33,5,35
+81,82,Bauzà,Jaume Bauzà Coll,15/02/1959,Sineu,mig,2,0,0,0,0
+82,83,Amengual,Antonio Amengual Salom,28/04/1942,Binissalem,dav,9,161,0,0,28
+83,84,Boy,José Sánchez Llambíes,17/02/1941,Maó,mig,8,111,0,0,18
+84,85,Mir,Julià Mir Pons,09/02/1941,Sa Pobla,mig,9,132,0,0,27
+85,86,Piris,Rafael Piris Esteva,18/12/1932,Artà,por,16,183,0,0,0
+86,87,Forteza,Juan Forteza Bennasar,11/04/1935,Pollença,mig,9,199,0,1,26
+87,88,Cladera,Juan Cladera Mir,06/02/1943,Sa Pobla,def,3,18,0,0,0
+88,89,Homar,Lorenzo Homar Soler,29/09/1936,Palma,dav,7,135,0,0,28
+89,90,Vilar,Miguel Vilar Cifre,14/09/1934,Pollença,por,5,82,0,0,0
+90,91,Caldentey,Pedro Caldentey Bauzá,03/09/1928,Sant Llorenç des Cardassar,por,15,236,0,1,0
+91,92,Mora,Martín Mora Moragues,03/06/1938,Algaida,por,2,9,0,0,0
+92,93,Bagur,Juan Bagur Coll,28/03/1928,Ciutadella de Menorca,por,15,177,0,0,0
+93,94,Diego,Diego Llopis Caules,02/05/1929,Ciutadella de Menorca,def,6,60,0,0,4
+94,95,Taberner,Pedro Taberner Nadal,10/11/1946,Palma,def,7,136,7,1,1
+95,96,Sancho,Juan Sancho Pons,11/09/1945,Palma,def,3,3,0,0,0
+96,97,Colom,Juan Colom Deyá,13/01/1945,Consell,dav,7,103,0,0,20
+97,98,Oliver,Felipe Oliver Creus,01/01/1947,Marratxí,def,3,18,0,0,0
+98,99,Parera,Juan Bisbal Parera,30/03/1946,Manacor,mig,5,102,0,0,13
+99,100,Puig,Amador Puig Coll,04/01/1947,Sóller,def,6,89,0,0,3
+100,101,Rosselló,Juan Rosselló Oquendo,10/05/1950,Palma,dav,8,145,3,0,26
+101,102,Sans,Bernardo Sans Perelló,30/01/1940,Muro,def,13,285,8,4,1
+102,103,Cifre,Joan Cifre Rosselló,18/08/1948,Palma,dav,5,47,0,0,24
+103,104,Moragón,José Sánchez Moragón,06/10/1987,Manacor,por,7,111,13,0,0
+104,105,Dani Nieto,Daniel Nieto Vela,04/05/1991,Palma Nova,dav,10,200,29,1,26
+105,106,Carretero,José Carretero Buades,27/11/1921,Maó,mig,1,2,0,0,0
+106,107,Corró,Miguel Esteva Salas,04/01/1948,Inca,dav,3,49,0,0,1
+107,108,Matías,Matías Miguel Tugores Ferrer,15/03/1945,Inca,mig,8,148,1,0,18
+108,109,Pizá,Jaime Pizá Terrasa,28/03/1947,Palma,mig,4,33,0,0,2
+109,110,Florencio,Florencio Alberto Hernández Galmés,29/03/1946,Ciutadella de Menorca,dav,1,0,0,0,0
+110,111,Sitges,Antoni Sitges Casals,28/09/1971,Manacor,mig,5,126,23,0,22
+111,112,Calleja,Miguel Ángel Calleja Verger,23/05/1970,Palma,por,2,12,0,0,0
+112,113,Ballester,Bartolomé Ballester Mulet,01/07/1965,Campos,def,11,312,45,2,13
+113,114,Dani Benítez,Daniel González Benítez,07/04/1987,Palma,dav,11,230,70,6,28
+114,115,Rigo,Baltasar Rigo Cifré,26/06/1985,Campos,def,10,117,45,4,9
+115,116,Sastre,Lluís Sastre Reus,26/03/1986,Binissalem,mig,15,331,89,0,8
+116,117,Cendrós,Pablo Cendrós López,01/04/1987,Palma,def,13,261,90,8,5
+117,118,Morro,Antonio Morro Mora,13/09/1927,Mancor de la Vall,dav,7,86,0,0,54
+118,119,Mascaró,Pedro Mascaró Rayo,12/08/1928,Sa Pobla,dav,7,62,0,0,17
+119,120,Sans,Miguel Sans Rigo,18/05/1927,Palma,dav,8,108,0,1,41
+120,121,Marroig,Pedro Marroig Frau,27/03/1927,Palma,dav,6,108,0,1,21
+121,122,Taltavull,Gabriel Taltavull Monjo,10/07/1921,Ciutadella de Menorca,dav,13,199,0,0,50
+122,123,Suñer,Gabriel Suñer Sampol,02/04/1924,Montuïri,def,8,75,0,1,0
+123,124,Pont,Guillermo Pont Serra,12/07/1921,Palma,def,8,87,0,0,0
+124,125,Meliá,Pedro Meliá Marqués,14/09/1931,Ciutadella de Menorca,dav,3,35,0,0,9
+125,126,Salas,Bartolomé Salas Ribot,30/11/1919,Palma,def,14,263,0,4,0
+126,127,Rotger,Valentín Rotger Caules,1917,Ciutadella de Menorca,def,2,16,0,0,0
+127,128,Corró,Manuel Antonio Esteva Corró,28/12/1919,Esporles,def,11,147,0,0,0
+128,129,Germán,Germán Bagur Carreras,14/02/1917,Maó,def,9,184,0,1,0
+129,130,Serra,Domingo Serra Marqués,03/10/1921,Ciutadella de Menorca,def,6,94,0,0,14
+130,131,Vidal,Pablo Antonio Vidal Oliver,22/07/1920,Palma,dav,9,119,0,0,29
+131,132,Company,Andrés Company Ramis,30/08/1921,Inca,por,9,155,0,0,0
+132,133,Sureda,Francisco Sureda Fullana,01/03/1919,Manacor,por,3,14,0,0,0
+133,134,Carretero,Joaquín Carretero Comella,02/07/1920,Ciutadella de Menorca,mig,1,2,0,0,0
+134,135,Coll,Guillermo Coll Munar,30/01/1919,Inca,mig,8,127,0,0,4
+135,136,Olivares,Manuel Olivares Lapeña,02/04/1909,Son Servera,dav,11,140,0,1,107
+136,137,Felipe Ferrer,Felipe Ferrer Carreras,05/04/1910,Palma,dav,7,49,0,0,15
+137,138,Gomila,Pedro Gomila Alcover,25/10/1912,Manacor,dav,2,1,0,0,0
+138,139,Tundidor,Víctor Hugo Tundidor Sánchez,03/01/1985,Palma,por,1,0,0,0,0
+139,140,Salom,Bartolomé Salom Moyà,03/03/1945,Palma,dav,1,0,0,0,0
+140,141,Gayá,Josep Antoni Gayá Martínez,07/07/2000,Palma,def,3,11,1,0,0
+141,142,Cladera,Antonio Cladera Florit,18/11/1906,Maó,dav,4,19,0,0,10
+142,143,Javier,Germán Javier Cardona,25/06/1908,Maó,por,1,2,0,0,0
+143,144,Moreno,Iñaki Moreno Araújo,25/02/1968,Inca,mig,11,238,63,6,41
+144,145,Mas,Juan Mas Llobera,15/01/1953,Palma,dav,4,22,2,0,3
+145,146,Coll Morro,Juan Coll Morro,12/03/1947,Selva,mig,1,1,0,0,0
+146,147,Tomás,Tomás Gibert Requena,03/03/1963,Palma,mig,5,153,18,0,35
+147,148,Capó,Andreu Capó Monjó,23/05/1944,Ciutadella de Menorca,por,3,67,4,0,0
+148,149,Marc García,Marc García Llompart,18/12/2002,Palma,def,2,1,0,0,0
+149,150,Salas,Jaime Salas Sureda,06/06/1963,Manacor,def,8,214,35,5,9
+150,151,Pastor,Antonio Pastor Cabrer,18/05/1963,Manacor,def,5,112,21,4,4
+151,152,Tolo Ferrer,Bartolomé Ferrer Canals,16/05/1961,Palma,dav,4,96,5,1,12
+152,153,Aguiló,Gabriel Aguiló Ramón,16/01/1963,Palma,def,8,249,54,6,8
+153,154,Sergi Enrich,Sergi Enrich Ametller,26/02/1990,Ciutadella de Menorca,dav,14,413,63,3,87
+154,155,Luna,Antonio Manuel Luna Rodríguez,17/03/1991,Son Servera,def,11,209,44,7,4
+155,156,Carlos Tomás,Carlos Tomás Ferrer,18/05/1988,Eivissa,def,6,82,15,1,1
+156,157,Fofo,Adolfo Enríquez García,02/03/1990,Palma,dav,12,191,28,0,38
+157,158,Chando,Alejandro Torres Román,18/06/1982,Palma,dav,18,417,47,5,129
+158,159,Doro,Francisco Armero Sanz,02/11/1962,Palma,mig,8,166,31,4,12
+159,160,Bonnín,Gaspar Bonnín Pastor,21/02/1962,Petra,dav,9,135,12,0,14
+160,161,Albera,Jerome Eros Albera,07/08/2002,Ibiza,dav,1,1,0,0,0
+161,162,Bartolí,Bartolomé Bartolí Adrover,27/03/1952,Palma,dav,9,111,3,0,9
+162,163,Planas,José Planas Planas,12/04/1952,Llubí,mig,8,290,13,0,27
+163,164,Comas,Bernardo Comas Rosselló,26/07/1963,Lloseta,dav,1,1,0,0,0
+164,165,Llabrés,Javier Llabrés Expósito,15/01/2002,Inca,dav,2,6,0,0,0
+165,166,Cladera,Gabriel Cladera Castell,23/07/1956,Llubí,dav,2,3,0,0,0
+166,167,Garau,Bartolomé Garau Sastre,25/03/1950,Palma,def,3,22,0,0,0
+167,168,Vallespir,Miguel Vallespir Bordoy,28/08/1944,Palma,por,8,241,4,0,0
+168,169,Acedo,Joaquín Acedo Sacaluga,27/03/1948,Maó,dav,10,170,5,0,7
+169,170,Ruiz,Tomás Ruiz Flores,23/03/1955,Palma,mig,1,1,0,0,0
+170,171,Vicens,Jaime Vicens Caimari,18/03/1951,Palma,mig,1,20,1,1,0
+171,172,Pons,Pedro Pons Bennàssar,21/01/1947,Sa Pobla,def,3,36,3,1,0
+172,173,Quetglas,Andrés Quetglas Borrás,04/03/1917,Palma,dav,1,3,0,0,0
+173,174,Paco,Francisco Sastre Simonet,30/11/1945,Palma,mig,2,27,5,0,1
+174,175,Figuerola,Francisco Figuerola Munar,17/07/1949,Inca,dav,2,27,1,0,2
+175,176,Radó,Daniel Radó Gual,15/02/1983,Palma,dav,2,19,2,0,0
+176,177,Riera,Pedro Riera Pol,02/03/1957,Manacor,mig,5,8,0,0,0
+177,178,Pardo,José Pardo Rumbo,26/04/1951,Selva,dav,7,104,1,0,13
+178,179,Roig,Antonio Roig Sánchez,08/01/1950,Felanitx,dav,1,0,0,0,0
+179,180,Fiol,Jaime Fiol Estarás,25/11/1944,Palma,dav,6,47,0,0,3
+180,181,Florit,Antonio Florit Bosch,25/11/1937,Ciutadella de Menorca,mig,7,106,0,1,21
+181,182,Ramón,Juan Ramón Alcina,1937,Es Castell,por,2,9,0,0,0
+182,183,Cantallops,Julián Cantallops Mir,01/11/1935,Sa Pobla,def,2,30,0,0,1
+183,184,Magín,Magín Durán Puigserver,21/01/1938,Manacor,def,6,101,0,0,2
+184,185,Rettich,Alfredo Rettich Serra,28/02/1944,Sa Pobla,dav,2,3,0,0,0
+185,186,Vila,Francisco Vila Monserrat,02/05/1939,Palma,mig,7,138,0,0,7
+186,187,Munar,Martí Munar Mir,07/07/1954,Sa Pobla,def,1,25,3,0,0
+187,188,Juanjo,Juan José Gómez Martínez,25/08/1982,Palma,por,1,0,0,0,0
+188,189,Franch,Sebastián Franch Ignacio,12/10/1936,Sa Pobla,def,5,92,0,0,5
+189,190,Galmés,Juan Galmés Gelabert,11/03/1934,Sant Llorenç des Cardassar,mig,2,32,0,1,1
+190,191,Monserrat,Monserrate Sansó Pascual,31/08/1938,Manacor,dav,2,26,0,1,5
+191,192,Terrasa,José Terrasa Serra,14/03/1937,Sa Pobla,def,1,3,0,1,0
+192,193,Morro,Juan Morro Albertí,03/02/1933,Selva,dav,4,46,0,0,8
+193,194,Arrom,Andrés Arrom Horrach,30/11/1936,Inca,dav,3,15,0,1,1
+194,195,Ossorio,José Ignacio Ossorio Torrandell,27/10/1940,Pollença,por,1,1,0,0,0
+195,196,Reus,Ramón Reus Llobera,28/09/1955,Palma,por,4,35,2,0,1
+196,197,Morey,Jorge Miguel Morey Vich,04/01/1959,Palma,dav,5,81,7,0,15
+197,198,Pons,Pere Pons Pons,26/05/2002,Ferreries,mig,1,0,0,0,0
+198,199,Darder,Sergi Darder Moll,22/12/1993,Artà,mig,9,259,49,3,24
+199,200,Alzina,Pablo Alzina Martorell,1944,Inca,def,5,34,0,0,0
+200,201,Febrer,Guillermo Febrer Gayá,01/07/1938,Sant Llorenç des Cardassar,por,7,88,0,0,0
+201,202,Coll,Gabriel Coll Tortella,15/07/1945,Inca,mig,1,24,0,0,1
+202,203,Tugores,Pedro Tugores Benito,11/09/1944,Caimari,mig,5,56,0,0,6
+203,204,Seguí,Juan Enrique Seguí Cantallops,14/12/1944,Sa Pobla,def,4,81,0,1,1
+204,205,Juan Nicolau,Juan Nicolau Mateu,07/03/1945,Inca,mig,1,26,0,0,0
+205,206,Perelló,Bernardino Perelló Coll,09/01/1946,Inca,def,3,10,0,0,0
+206,207,Jaume,Miguel Jaume Llull,09/06/1944,Palma,dav,1,26,0,0,3
+207,208,Llompart,Juan Llompart Morro,15/07/1945,Inca,def,1,12,0,1,0
+208,209,Solé,Miguel Solé Soler,22/05/1947,Inca,def,2,30,0,1,0
+209,210,Ferrer,Antonio Ferrer Pascual,02/10/1941,Inca,dav,1,4,0,0,0
+210,211,Garriga,Mateo Garriga Grau,13/05/1944,Inca,por,1,1,0,0,0
+211,212,Palou,Bernardí Palou Buades,07/04/1946,Selva,def,3,11,0,0,0
+212,213,Pons,Juan Pons Riera,22/07/1942,Ferreries,dav,1,10,0,0,0
+213,214,Roselló,José Luis Roselló Mascaré,08/03/1936,Ciutadella de Menorca,def,1,6,0,0,1
+214,215,Mundo,Vistremundo Carretero Enseñat,22/02/1934,Es Castell,dav,5,61,0,0,38
+215,216,Asensio,Marco Asensio Willemsen,21/01/1996,Palma,dav,10,259,19,1,40
+216,217,Vidal,Jaume Vidal Gibert,24/02/1993,Palma,dav,5,51,10,1,3
+217,218,Mir,Julián Mir Mir,10/10/1928,Sa Pobla,por,1,0,0,0,0
+218,219,Bagur,Josep Bagur Ponseti,24/01/1929,Ciutadella de Menorca,mig,3,59,0,0,20
+219,220,Bibi,José Bibiloni Gelabert,22/05/1932,Alaró,dav,1,8,0,0,3
+220,221,Costa,Francisco Costa Cunill,03/07/1933,Palma,def,1,23,0,0,0
+221,222,Socias,Antonio Socias Ferrer,03/03/1935,Palma,def,4,13,0,0,0
+222,223,Antich,Bartolomé Antich Trobat,11/09/1928,Algaida,por,2,1,0,0,0
+223,224,Obrador,Pedro Obrador Morey,24/06/1929,Manacor,def,1,10,0,0,0
+224,225,Ferrer,Gabriel Ferrer Galmés,10/01/1931,Manacor,def,3,59,0,0,1
+225,226,Rullán,Alberto Rullán Colom,06/02/1927,Sóller,def,3,69,0,0,2
+226,227,Bombeta,Juan Font Vidal,11/09/1925,Palma,dav,1,3,0,0,0
+227,228,Peñalva,Cristóbal Oliver Peñalva,25/11/1933,Palma,dav,1,2,0,0,0
+228,229,Bestard,Antonio Bestard Martí,,Palma,dav,1,2,0,0,0
+229,230,Miguelín,Miguel Pons Gost,03/06/1924,Sa Pobla,dav,2,38,0,0,8
+230,231,Paco,Francisco Amengual Serra,02/06/1932,Palma,def,2,28,0,0,0
+231,232,Lalo,Gonzalo Florit Pons,29/09/1932,Ferreries,mig,1,13,0,0,3
+232,233,Pueyo,José Pueyo Chaubel,1916,Palma,dav,6,94,0,1,11
+233,234,Mesquida,Antonio Mesquida Oliver,22/05/1919,Manacor,def,9,110,0,3,0
+234,235,Oliva,Alfredo Oliva Coll,30/08/1920,Palma,mig,4,37,0,0,4
+235,236,Soler,Juan Soler Caimari,04/03/1924,Sa Pobla,def,1,6,0,0,0
+236,237,Serra,,,Llucmajor,def,1,6,0,0,0
+237,238,Mateu II,Bernardo Mateu Llobera,09/09/1930,Inca,mig,1,5,0,0,0
+238,239,Pocoví,Sebastián Pocoví Santandreu,16/10/1916,Capdepera,dav,7,105,0,0,21
+239,240,Matas,Manuel Matas Homar,1920,Palma,def,4,13,0,0,0
+240,241,Ordinas,Bartolomé Ordinas Llabrés,1910,,def,3,17,0,0,0
+241,242,Orfila,Juan Orfila Marqués,07/12/1931,Ciutadella de Menorca,dav,3,40,0,0,6
+242,243,Juaneda,Juan Juaneda Saurina,04/12/1926,Ciutadella de Menorca,def,7,132,0,1,11
+243,244,Barceló,Lorenzo Barceló Barceló,09/01/1932,Vilafranca de Bonany,por,2,16,0,0,0
+244,245,Alorda,Jaime Alorda Cabot,15/12/1927,Palma,mig,4,81,0,0,32
+245,246,Juan,Juan Juan Salvá,07/01/1931,Palma,def,2,17,0,0,0
+246,247,Prats,Antonio Prats Ferrer,01/04/1925,Palma,def,3,79,0,0,7
+247,248,Ferretjans,Juan Ferretjans García,09/04/1931,Llucmajor,dav,1,14,0,0,5
+248,249,Seguí,Francisco Seguí Thomás,21/12/1927,Llucmajor,dav,2,22,0,0,4
+249,250,Ramis,Francisco Ramis Cunill,26/04/1930,Palma,mig,3,63,0,0,15
+250,251,Salom,Antonio Salom Vicens,11/03/1931,Santanyí,por,1,13,0,0,0
+251,252,Pont,Bartolomé Pont Serra,05/11/1930,Palma,def,1,20,0,0,0
+252,253,Crespí,Francisco Crespí Serra,10/03/1933,Palma,mig,1,22,0,0,1
+253,254,Simonet,José Simonet Ferrer,31/01/1920,Palma,def,6,50,0,0,1
+254,255,Crespí II,José Crespí Pizá,09/04/1932,Palma,mig,1,5,0,0,0
+255,256,Mas,Juan Mas Dubiá,16/12/1933,Palma,def,2,16,0,0,0
+256,257,Noguera,Pedro Noguera Amengual,27/05/1933,Alaró,def,1,4,0,0,0
+257,258,Mauri,Miguel Mauri Mora,03/07/1919,Manacor,mig,2,16,0,0,4
+258,259,Albella,Juan Albella Balaguer,15/06/1913,Palma,dav,2,18,0,0,9
+259,260,Adrover,Jaime Adrover Verger,24/06/1922,Santanyí,dav,1,2,0,0,0
+260,261,Pericás,Jaime Pericás Llinás,27/05/1915,Palma,por,2,3,0,0,0
+261,262,Gil,José Gil Torelló,19/01/1921,Palma,def,1,11,0,0,0
+262,263,Oliver,Damián Oliver Antich,12/12/1917,Llucmajor,def,1,7,0,0,0
+263,264,Fiol,Juan Fiol Soler,23/11/1923,Sa Pobla,dav,1,1,0,0,0
+264,265,Rosselló,Bartolomé Rosselló Oliver,09/04/1924,Palma,dav,1,2,0,0,0
+265,266,Guillermo,Guillermo Bennasar Pascual,16/03/1923,Sa Pobla,por,7,94,0,0,0
+266,267,Antolín,Antolín Arnau Escandell,28/04/1908,Es Castell,mig,4,29,0,1,7
+267,268,Planas,Antonio Planas Muntaner,27/04/1913,Palma,dav,4,46,0,0,30
+268,269,Martínez,Juan Pedro Martínez Serrano,21/09/1957,Palma,mig,5,102,11,2,13
+269,270,Piñar,Francisco Piñar Martín,23/02/1966,Palma,dav,5,77,8,2,9
+270,271,Sans,Jaime Sans Llabrés,27/08/1964,Binissalem,def,1,1,0,0,0
+271,272,Turmo,Adrián Turmo Jodar,24/01/2001,Palma,dav,2,30,1,0,3
+272,273,Pleguezuelo,Julio José Pleguezuelo Selva,26/01/1997,Palma,def,2,25,8,1,0
+273,274,Montiel,Cristóbal Montiel Rodríguez,11/04/2000,Palma,mig,2,24,3,0,0
+274,275,Jou,Antoni Jou Mas,16/03/1996,Palma,mig,5,85,17,1,2
+275,276,Amengual,Miguel Amengual Balaguer,15/07/1997,Llucmajor,por,1,0,0,0,0
+276,277,Pedro Ortiz,Pedro Ortiz Bernat,19/08/2000,Sóller,mig,5,69,29,2,5
+277,278,Antonio Sánchez,Antonio Sánchez Navarro,22/04/1997,Palma,mig,5,147,26,1,6
+278,279,Pascual,Jaume Pascual Albons,07/03/1996,Ses Salines,dav,3,61,4,0,6
+279,280,Ferran,Ferran Muñoz Espejo,01/07/2000,Eivissa,dav,1,0,0,0,0
+280,281,Lluís,Lluís Artigues Ribas,07/08/1994,Felanitx,por,1,0,0,0,0
+281,282,Cano,Jorge Cano Orihuela,07/01/1994,Palma,mig,1,2,0,0,0
+282,283,Elías,Elías Ramírez García,23/04/1999,Binissalem,por,2,0,0,0,0
+283,284,Jurado,Jesús Jurado Bouzón,08/02/1999,Palma,por,1,0,0,0,0
+284,285,Ramón,Pablo Ramón Parra,30/06/2001,Calvià,def,5,53,16,3,0
+285,286,Morey,Mateu Jaume Morey Bauzà,02/03/2000,Petra,def,1,0,0,0,0
+286,287,Bautista,Jon Bautista Orgillés,03/07/1995,Maó,dav,9,176,28,0,37
+287,288,Salvá,Juan Salvá Romero,24/08/1993,Palma,dav,1,33,13,0,4
+288,289,Toril,Alberto Toril Domingo,01/06/1997,Palma,dav,5,118,35,1,24
+289,290,Iván Elena,Iván Elena Hervás,27/04/1999,Palma,mig,6,106,13,1,10
+290,291,Monchu,Ramón Rodríguez Jiménez,13/09/1999,Palma,mig,6,143,36,4,17
+291,292,Tur,Jordi Tur Antonio,19/05/1998,Eivissa,mig,5,84,12,0,7
+292,293,Marvin,Marvin Olawale Akinlabi Park,03/07/2000,Palma,mig,5,69,11,0,5
+293,294,Salido,Alberto Salido Tejero,16/01/2000,Palma,dav,4,27,4,0,3
+294,295,Liñán,José Antonio Liñán Lara,30/04/2001,Palma,por,2,0,0,0,0
+295,296,Juan,Emilio A. Juan Contreras,,Eivissa,mig,1,0,0,0,0
+296,297,Munar,Jaime Munar Adrover,08/04/1999,Sencelles,mig,1,0,0,0,0
+297,298,Graham,Steven Noel Graham Martínez,05/06/1995,Palma,por,1,0,1,0,0
+298,299,Cifre,Juan Cifre Navas,26/05/1993,Palma,def,2,41,12,1,0
+299,300,Parera,Miquel Parera Pizà,18/05/1996,Manacor,por,9,81,8,1,0
+300,301,Sastre,Joan Sastre Vanrell,30/04/1997,Palma,def,8,145,37,3,4
+301,302,Caballé,Josep Caballé Martín,07/06/1990,Maó,mig,9,180,35,0,12
+302,303,Coll,Gabriel Coll Soler,17/07/1996,Inca,mig,1,2,0,0,0
+303,304,Ripoll,Miquel Ripoll Guayta,15/06/1993,Alcúdia,dav,4,93,17,2,9
+304,305,Toni Torres,Antonio Miguel Torres Llobera,22/10/1995,Inca,mig,1,7,0,0,0
+305,306,Villarreal,Bartomeu Villarreal Estrany,15/01/1997,Pollença,por,1,0,0,0,0
+306,307,Damià Sabater,Damià Sabater Tous,03/02/1996,Palma,mig,9,190,32,2,4
+307,308,Gaya,Joan Gaya Castillo,05/08/1996,Llubí,def,1,0,0,0,0
+308,309,Sarmiento,Sergio Sarmiento Pinel,14/03/1996,Palma,dav,2,15,1,0,2
+309,310,Sabater,Vicenç Sabater de Juan,09/07/1993,Palma,por,3,41,2,0,0
+310,311,Marc Adán,Marc Adán Juárez Campos,15/02/1996,Palma,dav,1,1,0,0,0
+311,312,Olmeda,Sergio Olmeda Martínez,25/10/1993,Palma,dav,1,17,1,0,0
+312,313,Gálvez,José Ángel Gálvez Melero,19/02/1995,Lloseta,mig,1,6,0,0,0
+313,314,Lirola,Javier Luciano Lirola Machado,05/04/1984,Palma,def,1,16,0,0,0
+314,315,Mingo,Ángel Mingorance Mérida,22/05/1988,Palma,por,2,46,4,1,0
+315,316,Jaume Pol,Jaume Pol Vidal,31/12/1994,Palma,def,7,135,45,1,2
+316,317,Regis,Francesc Regis Crespí,30/09/1996,Palma,dav,4,132,12,0,30
+317,318,Villalonga,Francesc Villalonga Serra,19/11/1995,Lloseta,por,1,0,0,0,0
+318,319,Wynney,Boison Wynney de Souza,06/12/1996,Palma,por,1,0,0,0,0
+319,320,Ramis,Jordi Ramis Riera,19/10/1993,Manacor,mig,1,1,1,0,0
+320,321,Castell,Guillem Castell Molins,31/08/1994,Palma,mig,2,28,4,0,1
+321,322,Bibiloni,Adrian Bibiloni Chinchilla,22/04/1994,Palma,def,1,27,3,0,0
+322,323,Junior Román,Junior Alexander Román Tombini,17/05/1996,Cala d'Or,def,2,20,5,0,0
+323,324,Bonet,Antoni Bonet Marín,28/06/1993,Campos,dav,1,2,0,0,0
+324,325,Ibiza,Juan Fernández Blanco,17/08/1995,Eivissa,def,8,145,32,4,4
+325,326,Marc Capó,Marc Capó Florit,09/11/1996,Lloseta,dav,1,1,0,0,0
+326,327,Llobera,Gabriel Llobera Ramis,23/04/1996,Lloseta,mig,1,1,0,0,0
+327,328,Vaz,Francesc Vaz Contreras,27/11/1997,Inca,mig,1,2,0,0,0
+328,329,Canals,José Canals García,23/07/1999,Palma,mig,1,2,0,0,0
+329,330,Esteve,Esteve Peña Albons,26/04/1997,Portocolom,por,6,9,2,0,0
+330,331,Andreu,Andreu Hernández Celiá,27/03/1997,Ciutadella de Menorca,mig,4,90,25,2,1
+331,332,Nadal,Miquel Àngel Nadal Riera,05/07/1997,Manacor,def,1,2,0,0,0
+332,333,Rodado,Ángel Rodado Jareño,07/03/1997,Palma,dav,7,129,23,1,35
+333,334,Ángel Sánchez,Ángel Sánchez Baró,28/07/1997,Palma,dav,5,114,13,0,23
+334,335,Eder,Eder González Tortella,07/01/1997,Palma,dav,1,0,0,0,0
+335,336,Vidal,Josep Vidal Crespí,17/02/1997,Palma,def,3,50,6,1,3
+336,337,Alberto,Alberto Fernández Broens,06/05/1999,Santa Margalida,mig,6,96,19,2,13
+337,338,Pocoví,Bartolomé Pocoví Rosselló,04/06/1998,Palma,por,2,6,0,0,0
+338,339,Marí,Alejandro Marí Verdera,13/04/1999,Marratxí,por,1,0,0,0,0
+339,340,Perezagua,Javier Perezagua Duran,31/08/1999,Marratxí,mig,2,1,0,0,0
+340,341,Baró,Marc Baró Ortiz,23/08/1999,Palma,def,5,81,20,0,1
+341,342,Luna,Adrián Luna Ruiz,11/09/1997,Eivissa,dav,1,0,0,0,0
+342,343,Pomar,Pablo Pomar Portilla,21/04/1988,Palma,def,4,95,34,5,5
+343,344,Torres,Francisco Antonio Torres Zurdo,17/04/1984,Santa Eulària des Riu,por,3,6,1,1,0
+344,345,Javi Sánchez,Javier Sánchez García,02/06/1997,Manacor,mig,5,98,13,0,9
+345,346,Bernal,José Miguel Bernal Ortiz,06/11/1992,Eivissa,mig,6,155,33,2,23
+346,347,Leo Román,Leonardo Román Riquelme,06/07/2000,Eivissa,por,5,8,3,0,0
+347,348,Pau García,Pau García Font,11/02/1997,Palma,def,2,0,0,0,0
+348,349,Sisamón,Carlos Sisamón Juan,19/05/1999,Eivissa,por,2,0,0,0,0
+349,350,Tur,Enrique Tur Roca,24/05/2000,Eivissa,def,1,0,0,0,0
+350,351,Jordi Haro,Jorge Haro García,10/01/1997,Formentera,def,1,2,0,0,0
+351,352,Manchado,Manuel Manchado Rosado,12/04/2001,Sant Francesc de Formentera,mig,1,0,0,0,0
+352,353,Moya,Néstor Moya Martín,03/07/2001,Palma,mig,1,0,0,0,0
+353,354,David Crespo,David Crespo Zurita,26/08/1995,Palma,def,5,96,16,0,2
+354,355,José Tomás,José Alfonso Tomás Santiago,20/02/1999,Palma,por,1,0,0,0,0
+355,356,Maci,Giovanni Maci Amela,05/06/2001,Eivissa,mig,1,0,0,0,0
+356,357,Josean,José Antonio Torres Gómez,14/12/2001,Eivissa,mig,1,0,0,0,0
+357,358,Oncala,David Oncala Franco,11/07/2000,Palma,def,2,0,0,0,0
+358,359,Ramis,Lluís Ramis Clar,12/11/2001,Palma,mig,1,0,0,0,0
+359,360,Parra,Iván Parra Serra,14/03/2000,Eivissa,def,1,0,0,0,0
+360,361,Fraile,Marc Fraile Roselló,17/05/1995,Sant Antoni de Portmany,dav,6,93,14,0,15
+361,362,Drommel,Marcos Martínez Drommel,12/06/1995,Palma,def,3,24,8,0,0
+362,363,Bennasar,Macià Bennasar Payeras,08/05/1998,Sa Pobla,por,1,0,0,0,0
+363,364,Navalón,Francisco Navalón Bagur,16/01/1998,Llucmajor,mig,1,0,0,0,0
+364,365,Bonet,Gerardo Bonet Fernández,12/03/1998,Palma,mig,2,34,8,1,2
+365,366,Vecina,Sergi Vecina Rosal,04/09/1998,Manacor,def,2,0,0,0,0
+366,367,Pere Joan,Pere Joan García Bauzá,22/03/2002,Ca'n Picafort,por,4,5,1,0,0
+367,368,Kike Echávarri,Enrique Javier Montesinos Echávarri,14/06/1994,Palma,def,1,6,1,0,0
+368,369,Chechu,Jesús María Meneses Sabater,04/01/1995,Palma,def,2,14,3,0,1
+369,370,Chema,José María Lorente Álvarez,08/05/1996,Andratx,def,2,1,0,0,0
+370,371,Soldat,Marc Soldat Martín,17/09/1998,Eivissa,dav,1,0,0,0,0
+371,372,Lloves,Alexander Lloves Heinen,21/10/1997,Eivissa,por,1,0,0,0,0
+372,373,Mayans,Alejandro Mayans Garciolo,19/09/1997,Sant Francesc de Formentera,mig,1,0,0,0,0
+373,374,Gori,Gregorio López Teruel,31/10/1998,Palma,mig,2,12,1,0,1
+374,375,Fran González,Francisco Manuel González Verjaga,13/08/1998,Calonge,def,4,11,2,0,0
+375,376,Obrador,Rafel Obrador Burguera,24/02/2004,Campos,def,4,10,0,0,0
+376,377,Cruz,Cristian Cruz Medina,23/07/1993,Eivissa,def,4,75,18,1,4
+377,378,Gino,Moller Gino Lopes Correia,17/09/2002,Sant Antoni de Portmany,dav,2,26,5,0,0
+378,379,Dieguito,Diego Martínez Hernández,29/11/1997,Palma,def,2,38,6,0,2
+379,380,Karim,Karim El Kounni Torres,15/04/1998,Palma,mig,4,51,9,0,5
+380,381,Frau,Antonio Frau Arnal,20/04/1999,Palma,def,4,39,11,0,2
+381,382,Sintes,Xavier Sintes Egea,05/08/2001,Maó,mig,3,41,5,0,1
+382,383,Juanvi,Juan Vicente Canales Montero,03/01/2001,Palma,por,3,12,1,1,0
+383,384,Plomer,Daniel Enrique Plomer Gordillo,30/11/1998,Palma,dav,3,52,10,0,3
+384,385,Fer Niño,Fernando Niño Rodríguez,24/10/2000,Palma,dav,4,65,5,0,8
+385,386,Carlos Lorente,Carlos Lorente Álvarez,06/05/1999,Andratx,mig,1,13,0,1,0
+386,387,Guille,Guillermo Palmer Pacheco,14/09/1997,Palma,dav,1,24,3,0,3
+387,388,Llabrés,Miquel Llabrés Alemany,28/01/2000,Andratx,mig,2,45,9,0,11
+388,389,Prada,Raúl Prada Lozano,23/05/2001,Palma,def,4,58,16,0,4
+389,390,Miquel Jaume,Miquel Jaume Castell,08/09/1999,Llubí,dav,1,6,0,0,0
+390,391,Puig,Tomeu Puig Binimelis,11/03/2001,Cala d'Or,por,1,0,0,0,0
+391,392,Flaqué,Adrián Nicolás Flaqué McCrae,12/08/1997,Palma,dav,3,15,0,0,0
+392,393,Adrián,Adrián Rodríguez Giménez,12/12/2000,Palma,por,4,19,1,0,0
+393,394,Salvà,Joan Salvà Font,01/02/1999,Ses Salines,def,1,6,0,0,0
+394,395,Varea,Antonio Varea Montoro,01/04/2000,Palma,por,3,13,2,0,0
+395,396,Pons,Pere Pons Llabrés,21/08/2000,Palma,dav,1,4,0,0,0
+396,397,Pau,Pau Torres Roselló,19/01/1999,Eivissa,mig,2,9,0,0,0
+397,398,Petrús,Abelard Petrús Garriga,15/02/1913,Maó,por,1,3,0,0,0
+398,399,Abad,Bartolomé Abad Obrador,03/12/1912,Palma,por,1,2,0,0,0
+399,400,Vázquez,Manuel Vázquez Mercadal,22/05/1919,Maó,def,1,13,0,0,0
+400,401,Parera,Bartolomé Parera Adrover,1916,Manacor,mig,1,14,0,0,0
+401,402,Poncio,Poncio Garí Salom,06/12/1917,Palma,por,1,4,0,0,0
+402,403,Alzamora,Sebastián Alzamora Mateu,29/01/1913,Sa Pobla,mig,1,9,0,0,1
+403,404,Óscar,Óscar Sánchez de Jesús,29/01/2001,Palma,def,2,1,0,0,0
+404,405,Florit,Antoni Florit Tarongi,21/05/2003,Palma,dav,1,2,0,0,0
+405,406,Rigo,Daniel Rigo Fiol,24/06/2003,Palma,mig,1,0,0,0,0
+406,407,Miguelito,Miguel Martín García,12/01/2001,Palma,def,2,12,0,0,0
+407,408,Marcos,Marcos Fernández Cózar,17/07/2003,Andratx,def,2,3,0,0,0
+408,409,Omar,José Omar de la Cruz Mangas,26/08/2001,Eivissa,mig,3,30,6,0,0
+409,410,Josep Jaume,Josep Jaume Busquets,08/01/2001,Palma,def,3,41,9,1,0
+410,411,Narro,Víctor Narro Valero,27/05/1999,Palma,dav,3,62,10,0,6
+411,412,Tovar,Jaume Tovar Seguí,06/11/1998,Palma,dav,2,32,5,1,4
+412,413,Femenias,Miquel Femenias Alzamora,12/01/2001,Andratx,def,1,9,2,0,0
+413,414,Florit,Joan Florit Pons,10/07/2001,Ca'n Picafort,mig,1,4,0,0,0
+414,415,Chus,Juan Jesús Seco Melantuche,24/06/1986,Palma,dav,6,67,8,0,3
+415,416,Del Castillo,Antonio del Castillo Valeriano,11/01/1987,Palma,def,5,113,27,2,7
+416,417,Juanan,Juan Antonio González Fernández,27/04/1987,Palma,def,6,149,14,1,5
+417,418,Kevin,Kevin Dennis Ulbrizh Aguilar,24/10/1988,Palma,por,5,80,7,1,0
+418,419,Iván Campos,Iván Campos Cockroft,23/06/1983,Palma,por,1,7,1,0,0
+419,420,Javi,Javier Fernández Ruiz,25/08/1982,Palma,mig,4,64,3,1,4
+420,421,Dani Marqués,Daniel Marqués Capó,07/08/1975,Maó,dav,1,16,2,1,4
+421,422,Nacho,Ignacio Martínez Pérez de Rada,16/07/1987,Palma,mig,4,74,13,0,2
+422,423,Toni Oliver,Antoni Oliver Bestard,19/07/1986,Binissalem,mig,2,22,4,0,1
+423,424,Grillé,Gabriel Luis Grillé Rocha,23/03/1986,Palma,def,3,55,17,1,2
+424,425,Rafita,Rafael Nicolás Seguí,30/06/1990,Palma,def,3,34,2,1,0
+425,426,Torres,Miguel Francisco Torres Pardo,15/03/1988,Eivissa,por,4,2,0,0,0
+426,427,Paco Pérez,Francisco Pérez Martín,09/02/1974,Palma,def,1,12,4,1,0
+427,428,Kamal,Mohamed Kamal Abdeselam El Hamdi,09/03/1992,Palma,mig,10,212,57,5,7
+428,429,Javi Ramos,Javier Ramos Rodríguez,09/04/1991,Palma,def,4,69,14,1,4
+429,430,Dalmau,Adrián Dalmau Vaquer,23/03/1994,Palma,dav,7,161,26,0,37
+430,431,Valero,Santiago José Valero Campos,29/09/1977,Palma,dav,3,10,1,0,0
+431,432,Loren,Lorenzo Araque Bergas,26/10/1975,Palma,dav,2,43,9,1,9
+432,433,Balado,Juan Alberto Balado Fernández,24/09/1967,Palma,mig,1,23,7,1,1
+433,434,Fede,Federico Salvador Ferrer Schwender,12/01/1979,Inca,dav,1,2,0,0,0
+434,435,Guillem,Guillem Bernat Moragues,02/03/1978,Sóller,def,1,2,1,0,0
+435,436,Eulogio,Raúl Eulogio Cortés,18/08/1979,Palma,por,1,0,0,0,0
+436,437,Capel,Rafael Capel Covas,26/08/1992,Palma,por,1,0,0,0,0
+437,438,Juan Carlos,Juan Carlos Coll Mairata,25/04/1968,Palma,por,5,25,0,0,0
+438,439,Cáceres,Cristian Cáceres Pons,05/04/1985,Eivissa,por,1,0,0,0,0
+439,440,Ramis,Alejandro Ramis González,23/09/1964,Palma,dav,1,21,0,0,1
+440,441,Moll,José Luis Moll Navarro,25/04/1967,Palma,dav,1,5,1,0,0
+441,442,Pons,Jaume Pons Bennàssar,14/05/1952,Sa Pobla,def,5,147,28,7,2
+442,443,Alomar,José Barceló Alomar,22/01/1967,Sa Pobla,mig,1,17,2,0,1
+443,444,Puet,Miquel Ramón Coll,30/01/1985,Eivissa,mig,1,0,0,0,0
+444,445,Crespí,Cristóbal Crespí Comas,06/08/1965,Sa Pobla,def,1,5,2,0,0
+445,446,Gost,Pedro Antonio Gost Palomar,31/01/1967,Sa Pobla,mig,1,1,0,0,0
+446,447,Pascual,Xavier Pascual Boada,29/01/1963,Palma,dav,1,9,1,0,2
+447,448,Sergi Torres,Sergi Torres Roselló,25/10/2004,Eivissa,mig,1,2,0,0,0
+448,449,Alcover,Tomeu Alcover,1960,Manacor,def,1,0,0,0,0
+449,450,Fuster,Juan Fuster Aguiló,05/11/1968,Manacor,mig,1,0,0,0,0
+450,451,Bauzá,Sebastián Bauzá Martorell,12/12/1959,Palma,mig,2,5,2,0,0
+451,452,Pep Jaume,José Jaume Alzamora,28/07/1949,Petra,def,1,19,0,0,0
+452,453,Díaz,Saúl Díaz Recobeni,18/02/1991,Sa Pobla,def,1,1,0,0,0
+453,454,Tauler,Juan Tauler Mestre,24/12/1946,Felanitx,dav,1,21,3,2,0
+454,455,Tristán,Francisco Javier Tristán Galiana,30/05/1958,Sant Antoni de Portmany,dav,1,0,0,0,0
+455,456,Quetglas,Ferran Quetglas Lorente,05/06/2005,Palma,por,2,0,0,0,0
+456,457,Bueno,Julián Bueno Arribas,13/09/1949,Palma,def,1,26,4,0,0
+457,458,Martínez,Manuel Martínez,1955,Palma,mig,1,26,4,0,8
+458,459,Pomar,José Pomar Estarellas,12/07/1948,Palma,def,1,32,7,1,0
+459,460,Ferrer,Pau Ferrer Escandell,21/02/2003,Sant Josep de Sa Talaia,mig,2,0,0,0,0
+460,461,Konate,Amadou Konate Diagne,14/09/2002,Palma,dav,1,0,0,0,0
+461,462,Guillem,Guillermo Romaguera Cañellas,15/02/2000,Pòrtol i Marratxí,def,1,1,0,0,0
+462,463,Pleguezuelo,Xavier Pleguezuelo Selva,14/01/2003,Palma,def,2,11,2,0,0
+463,464,Hernández,Javier Hernández González,30/06/2002,Maó,dav,1,2,0,0,0
+464,465,Trujillo,Antonio Trujillo Díaz,11/10/1987,Palma,dav,9,213,29,1,32
+465,466,Artabe,Alfonso Artabe Meca,18/08/1988,Palma,def,7,141,26,3,10
+466,467,César Collado,César Collado Angulo,19/09/1986,Palma,def,3,32,0,0,0
+467,468,Salvá,Joan Salvá Bonet,01/02/2002,Palma,por,2,1,0,0,0
+468,469,Michael,Michael Romero Requena,16/06/1983,Eivissa,mig,2,56,6,0,2
+469,470,Ramis,Jaume Miquel Ramis Pieras,18/11/1977,Palma,mig,5,97,17,0,2
+470,471,Santi Domínguez,Santiago Domínguez Moreno,27/05/1976,Palma,dav,1,16,3,0,0
+471,472,Ramón,Ramón Jiménez Narváez,25/09/1974,Sa Pobla,dav,3,61,19,1,9
+472,473,Salom,Andreu Salom Barranco,24/01/1970,Palma,mig,2,21,3,0,0
+473,474,Martí,Francisco Javier Martí Martínez,09/07/1972,Palma,mig,1,4,0,0,0
+474,475,Moranta,Matías Moranta Serra,16/08/1963,Sa Pobla,mig,1,6,0,0,0
+475,476,Agustín,Agustín Gómez Sánchez,20/09/1968,Palma,def,2,0,1,0,0
+476,477,Mir,Andreu Mir Tugores,07/03/1957,Sa Pobla,dav,5,123,15,2,3
+477,478,Comas,Lorenzo Comas Serra,13/02/1965,Sa Pobla,def,3,70,16,3,3
+478,479,Moranta,José María Moranta Frontera,11/03/1960,Mancor de la Vall,mig,3,72,5,0,10
+479,480,Sastre,Juan Sastre Reus,14/05/1970,Binissalem,por,1,1,0,0,0
+480,481,Palou,Miguel Ángel Palou Mas,18/11/1964,Palma,por,1,30,4,0,0
+481,482,Pons,Mateo Pons Santandreu,10/12/1965,Palma,mig,2,57,5,1,2
+482,483,Félix,Félix de la Cruz Carrasco,14/10/1963,Palma,dav,1,34,7,0,2
+483,484,Varela,Daniel Varela Keilholz,07/02/1964,Palma,dav,3,57,6,1,1
+484,485,Teo,Teófilo Castedo Escudero,16/05/1962,Andratx,mig,1,36,1,0,0
+485,486,Manolito,Manuel Pérez González,17/07/1964,Palma,dav,1,18,2,1,1
+486,487,Álvaro,Álvaro Martínez Recio,05/11/1961,Santa Ponça,mig,1,14,1,0,1
+487,488,Vich,Antonio Vich Cloquell,01/09/1966,Palma,def,1,33,3,0,3
+488,489,Martínez,Manuel Martínez Garrido,27/02/1970,Palma,def,1,9,1,0,0
+489,490,Amer,Jaime Amer Herrera,20/08/1962,Palma,def,1,23,7,0,0
+490,491,Alfonso,Alfonso Francisco Palmer,17/06/1967,Palma,def,1,7,1,0,0
+491,492,Chema,José María Aznar Barrionuevo,01/08/1963,Santa Ponça,por,1,10,1,0,0
+492,493,Oviedo,Antonio Oviedo Subías,19/06/1966,Palma,mig,1,3,0,0,0
+493,494,Quetglas,Antonio Quetglas Maroto,1969,Selva,dav,1,28,1,0,3
+494,495,Tianet,Juan Serra Amer,05/02/1966,Palma,def,3,37,14,1,0
+495,496,Cantallops,Guillermo Cantallops Socías,01/11/1963,Sa Pobla,mig,7,144,10,1,1
+496,497,Gaspar,Gaspar Sastre Gomila,31/05/1965,Montuïri,def,7,169,25,0,5
+497,498,Suasi,Juan A. Suasi Vives,04/02/1968,Palma,mig,1,8,0,0,0
+498,499,Edu,Eduardo Pérez Valiente,22/04/1968,Palma,def,2,11,0,0,0
+499,500,Esteban,Esteban Payeras Crespí,03/04/1967,Sa Pobla,def,4,23,4,0,0
+500,501,Alex,Alejandro Gost Serra,09/03/1970,Sa Pobla,dav,1,3,0,0,0
+501,502,Joan,Juan Terrasa Amer,21/11/1968,Sa Pobla,def,1,1,0,0,0
+502,503,Nebot,Juan Nebot Domenge,17/04/1968,Son Servera,dav,1,22,5,0,2
+503,504,Sebastián,Sebastián Nebot Andreu,23/08/1968,Son Servera,def,2,50,9,1,0
+504,505,Sansó,José Sansó Barceló,21/05/1964,Vilafranca de Bonany,dav,2,58,6,2,3
+505,506,Julio,Julio Miguel Franco Hernández,23/11/1961,Artà,por,2,41,3,0,0
+506,507,Rafael,Rafael Olives Morro,12/11/1965,Maó,def,2,26,4,0,0
+507,508,Pau,Pau Van Walre Jover,16/06/1967,Maó,mig,1,10,0,0,0
+508,509,Ramón,Ramón Rodríguez Martínez,07/04/1970,Palma,dav,1,2,0,0,0
+509,510,Servera,Jaime Servera Servera,26/06/1972,Son Servera,mig,1,0,0,0,0
+510,511,Marcelino,Marcelino Pérez Becerra,25/09/1969,Palma,dav,1,1,0,0,0
+511,512,Bauzá,Juan Bauzá Bauzá,28/02/1965,Son Servera,def,1,8,0,0,0
+512,513,Fiol,Miquel Fiol Soler,06/11/1969,Palma,def,1,4,1,0,0
+513,514,Seguí,José Seguí Orfila,09/02/1963,Maó,por,2,10,0,0,0
+514,515,Campins,Gabriel Campins Borrás,26/10/1962,Alaró,mig,1,26,2,0,0
+515,516,Baltasar,Baltasar Gómez Sánchez,26/04/1963,Palma,mig,1,22,0,0,1
+516,517,Amengual,Miguel Amengual Quetglas,11/10/1965,Bunyola,mig,1,9,1,0,0
+517,518,Teruel,Isidro Teruel Candelas,16/02/1967,Palma,mig,1,1,0,0,0
+518,519,Ignacio,Juan Ignacio Vicent Enseñat,09/10/1957,Maó,por,2,39,1,0,0
+519,520,Soria,José Soria Salar,21/11/1966,Palma,def,2,65,7,0,0
+520,521,Nofre,Antonio Tuduri Tuduri,26/12/1954,Sant Lluís,def,1,35,5,2,5
+521,522,Albiol,Luis Albiol Martín,10/09/1959,Es Castell,dav,1,28,3,0,5
+522,523,Fanals,Genaro Fanals Orfila,20/07/1969,Maó,dav,1,4,0,0,0
+523,524,Min Viroll,Benjamín Pons Riera,03/09/1962,Ferreries,dav,1,12,4,0,1
+524,525,Toni Comas,Antonio Comas Serra,02/02/1963,Sa Pobla,def,2,17,2,0,0
+525,526,Payeras,Damián Payeras Crespí,06/12/1964,Sa Pobla,mig,1,5,0,0,0
+526,527,Llull,Pedro Llull Fullana,05/12/1961,Manacor,dav,4,129,6,0,26
+527,528,Tuduri,Cristóbal Tuduri Riudavets,21/08/1967,Maó,dav,2,10,1,0,0
+528,529,Parera,Jaime Parera Barceló,05/06/1963,Manacor,por,1,6,0,0,0
+529,530,Llull,Antonio Llull Vives,24/01/1959,Son Servera,mig,1,17,0,0,1
+530,531,Riera,Gabriel Riera Llinás,22/02/1968,Sant Llorenç des Cardassar,mig,2,47,4,0,4
+531,532,Carrió,Gabriel Carrió Vives,02/06/1966,Son Servera,mig,1,31,8,1,2
+532,533,Miguel Ángel,Miguel Ángel Llull Perelló,04/05/1965,Manacor,mig,1,3,0,0,0
+533,534,Badia,Antonio Badia Melis,15/04/1961,Manacor,dav,1,15,1,0,2
+534,535,Company,Gabriel Company Bauzá,23/11/1963,Sant Joan,dav,3,67,9,1,8
+535,536,Mut,Jaime Mut Roselló,15/04/1961,Manacor,dav,1,13,2,0,0
+536,537,Martínez,José Martínez de Arco,20/07/1964,Inca,por,1,21,2,0,0
+537,538,Doro,Juan Carlos Armero Sanz,20/04/1965,Palma,def,1,32,7,1,0
+538,539,Pons,Bartolomé Pons Santandreu,25/12/1967,Palma,def,1,26,1,0,0
+539,540,Soria,Francisco Soria Salar,07/10/1959,Palma,def,6,180,41,3,8
+540,541,Ballester,Bernardo Ballester Vallori,24/12/1962,Bunyola,def,1,38,1,0,1
+541,542,Nubiola,José A. Nubiola Pérez,10/12/1965,Palma,mig,1,23,0,0,3
+542,543,Serra,Jaime Serra Bennasar,17/01/1968,Búger,dav,2,13,0,0,1
+543,544,Vaquer,Miguel Vaquer Martorell,15/09/1955,Inca,dav,1,26,0,0,9
+544,545,Mas,Juan Mas Ballester,22/01/1966,Palma,dav,1,19,3,0,4
+545,546,Mut,Melchor Mut Villalonga,30/09/1968,Inca,dav,1,7,0,0,0
+546,547,Juan Carlos,Juan Carlos Añibarro Franch,17/04/1967,Búger,dav,1,12,2,0,0
+547,548,Flexas,Onofre Flexas Contestí,27/01/1966,Palma,def,1,1,0,0,0
+548,549,Llobera,Antonio Llobera Batle,22/09/1969,Inca,def,1,1,0,0,0
+549,550,Gayá,Juan Gayá Llodrá,29/12/1962,Manacor,def,2,35,0,0,0
+550,551,Xisco Riera,Francisco Riera Pol,02/07/1959,Manacor,mig,2,44,3,0,6
+551,552,Franch,Sebastián Franch Ramis,01/09/1960,Sa Pobla,dav,3,56,2,0,15
+552,553,Bueno,José Bueno Rodríguez,19/05/1994,Palma,mig,1,16,4,0,0
+553,554,Alemany,Gaspar Alemany Alorda,17/07/1990,Esporles,def,1,3,1,0,0
+554,555,Alberti,Pau Alberti Cabot,24/12/1957,Banyalbufar,def,1,2,0,0,0
+555,556,Varela,Juan Manuel Varela Keilholz,04/10/1960,Palma,dav,1,36,4,0,6
+556,557,Rosselló,Antonio Rosselló Rosselló,09/10/1959,Alaró,dav,2,49,7,2,13
+557,558,Pardo,Jaime Pardo,1958,Palma,por,3,66,0,0,0
+558,559,Vicente,Vicent Escandell Ribas,24/05/1965,Eivissa,por,2,0,0,0,0
+559,560,Miguel Ángel,Miguel Ángel Fraile Rodríguez,11/08/1963,Eivissa,dav,3,61,3,1,6
+560,561,Toni Torres,Antonio Torres Torres,24/09/1962,Eivissa,def,2,24,7,0,0
+561,562,Sastre,Jesús Sastre Seguí,14/09/1987,Ciutadella de Menorca,por,1,0,0,0,0
+562,563,López,José López López,1955,Palma,def,4,135,20,2,4
+563,564,Ferrer Piña,José Ferrer Piña,15/09/1960,Palma,def,1,11,2,0,0
+564,565,Calvo,Antonio Calvo Alomar,25/10/1960,Palma,dav,1,6,0,0,1
+565,566,José,Miguel Ángel José Cañellas,29/12/1966,Palma,dav,1,0,0,0,0
+566,567,Juan Tomás,Juan Tomás García,16/06/1909,Llucmajor,dav,2,1,0,0,0
+567,568,Jorge,Jorge Castelló Ferrer,11/06/1999,Eivissa,dav,1,0,0,0,0
+568,569,Suárez,Aitor Suárez Torres,,Eivissa,dav,1,0,0,0,0
+569,570,Dani,Daniel Martínez Juan,28/09/1999,Eivissa,por,1,0,0,0,0
+570,571,Fajarnés,Enrique Fajarnés Costa,15/03/1996,Eivissa,mig,1,3,0,0,0
+571,572,Massanet,Antonio Massanet Pons,13/02/1939,Ciutadella de Menorca,dav,1,4,0,0,0
+572,573,Mascaró,Leonardo Mascaró Kapilevich,02/08/2003,Palma,def,1,2,1,0,0
+573,574,Dani García,Daniel García Lozano,28/09/2001,Eivissa,por,2,2,0,0,0
+574,575,Gerardo,Gerardo José Rubio Ortuño,17/05/1987,Palma,por,7,47,3,1,0
+575,576,Ángel,Ángel Cerdà Subirós,13/01/1989,Palma,def,3,37,10,1,0
+576,577,Sergio García,Sergio García Mut,20/01/1991,Manacor,dav,5,69,11,0,4
+577,578,Xicu,Francisco Ramón Grimaldo,08/03/1983,Eivissa,mig,1,21,11,1,1
+578,579,Marc Jiménez,Marc Jiménez de la Espada Martín,03/11/1985,Pollença,dav,11,310,40,8,84
+579,580,Javi Moreno,Javier Moreno Flores,23/01/1984,Palma,mig,16,411,174,12,4
+580,581,Cristian,Cristian Sánchez Adamuz,10/06/1982,Palma,mig,10,316,125,11,17
+581,582,Guillem,Guillem Martí Misut,05/09/1985,Mercadal,dav,8,192,31,0,48
+582,583,Toni Curuné,Antonio Planells Castelló,25/09/1988,Eivissa,def,1,1,0,0,0
+583,584,Charly,Carlos Fernández Molina,22/05/1987,Eivissa,dav,1,1,0,0,0
+584,585,Guasp,Gabriel Guasp Bergas,14/04/1988,Alaró,def,8,172,60,5,3
+585,586,José Luis,José Luis Pérez Riera,19/01/1987,Eivissa,mig,1,2,1,0,0
+586,587,José Rodríguez,José Antonio Rodríguez Munera,01/07/1985,Palma,def,14,286,62,8,7
+587,588,Víctor Hurtado,Víctor Hurtado Bustamante,20/09/1986,Eivissa,def,1,3,1,0,0
+588,589,Toni Ramírez,Antonio Ramírez Sánchez,22/03/1989,Eivissa,dav,1,6,0,0,1
+589,590,Cadena,Rubén Nicolás Cadena,03/01/1989,Eivissa,mig,1,1,0,0,0
+590,591,Raúl,Raúl Gómez Marí,06/07/1984,Eivissa,mig,2,16,5,1,0
+591,592,Xavi Cervera,Xavier Cervera de Miguel,19/09/1989,Eivissa,def,1,2,0,0,0
+592,593,Blázquez,José Luis Blázquez Fuster,27/03/1982,Palma,dav,8,158,33,0,27
+593,594,Xisco Cladera,Francesc Cladera Caldés,27/01/1984,Palma,mig,3,31,3,0,2
+594,595,Ernesto,Ernesto García Gallego,23/01/1986,Palma,mig,4,98,44,4,7
+595,596,Esteban,Esteban Muñoz Nogales,27/12/1984,Palma,def,8,250,60,1,9
+596,597,Nando Ramón,Fernando Ramón Escalas,14/02/1982,Palma,mig,8,132,29,1,16
+597,598,Ismael,Ismael Vilaboa Monteagudo,17/09/1986,Palma,mig,3,54,6,2,6
+598,599,Jacobo,Jacobo González Serna,08/02/1990,Palma,mig,1,1,0,0,0
+599,600,Navarro,Óscar Navarro Gracia,12/03/1982,Palma,def,3,91,22,1,0
+600,601,Rubio,Juan Martín Castillo,30/08/1982,Andratx,def,2,69,21,1,2
+601,602,Toni Coll,Antonio Coll Pou,23/01/1985,Lloseta,mig,3,30,4,0,0
+602,603,Damià,Damià Ramos Buades,29/09/1991,Palma,def,8,139,24,0,3
+603,604,Didac,Didac Ángel Devesa Albis,30/12/1990,Palma,mig,6,135,25,4,11
+604,605,Galera,Víctor Galera Almeda,27/01/1990,Eivissa,def,2,13,5,0,1
+605,606,Kevin,Kevin Martín García Martínez,08/09/1989,Palma,def,10,163,39,1,2
+606,607,Xisco Hernández,Francisco Hernández Marcos,31/07/1989,Palma,mig,9,231,73,6,47
+607,608,Jaime,Jaime Hernández Molina,29/06/1988,Palma,mig,7,185,33,4,16
+608,609,Noceras,Martí Noceras Porquer,08/03/1986,Muro,def,4,97,23,2,4
+609,610,Tomeu Nadal,Tomeu Nadal Mesquida,08/02/1989,Manacor,por,15,289,21,1,0
+610,611,Raúl,Raúl Sintes Bagur,11/04/1991,Maó,mig,3,4,0,0,0
+611,612,Rubén,Rubén Carreras Carreras,12/05/1987,Maó,mig,7,184,30,1,16
+612,613,Truyols,Joan Guillem Truyols Mascaró,11/11/1989,Manacor,def,9,151,44,7,7
+613,614,Yeray,Yeray Gómez Ferragut,10/06/1992,Selva,por,7,79,9,1,0
+614,615,Ginard,Xavier Ginard Torres,11/10/1986,Artà,por,9,141,12,0,0
+615,616,Pau Núñez,Pau Núñez López,08/04/1989,Palma,por,6,21,3,0,0
+616,617,Camacho,Daniel Camacho Pujals,09/02/1983,Palma,def,11,213,52,7,8
+617,618,Fullana,Francesc Fullana Ginard,09/10/1989,Montuïri,mig,14,379,74,4,44
+618,619,Jeroni,Jeroni Joan Coll Fullana,18/05/1989,Ciutadella de Menorca,def,3,75,26,4,5
+619,620,Miquel Capó,Miquel Capó Payeras,11/12/1987,Maó,def,2,6,2,1,0
+620,621,Pedro Capó,Pedro Luis Capó Payeras,11/12/1990,Maó,mig,14,392,81,2,21
+621,622,Newman,Jonathan James Newman,27/01/1990,Portmany,mig,2,18,4,0,0
+622,623,Omar,Omar Hernández Espigares,22/11/1990,Maó,def,2,8,1,0,0
+623,624,Reynés,Bartomeu Reynés Pastor,30/01/1980,Sóller,dav,4,77,20,3,2
+624,625,Navarro,Pedro Antonio Navarro García,29/06/1982,Palma,def,1,9,1,1,1
+625,626,Sito Riera,Llorenç Riera Ortega,05/01/1987,Manacor,dav,3,93,21,0,16
+626,627,Arriaza,Marcos Arriaza Sancho,18/09/1999,Son Servera,mig,1,12,1,0,0
+627,628,Rojals,Josep Marc Rojals Rovira,18/03/1986,Palma,mig,1,1,1,0,0
+628,629,Bussy,Guillem Bauzá Mayol,25/10/1984,Palma,dav,4,66,9,2,7
+629,630,Arnau,Arnau Caldentey Riera,01/10/1981,Manacor,mig,6,157,54,2,6
+630,631,Amate,Juan Amate Jiménez,25/05/1981,Sa Pobla,def,4,28,8,0,3
+631,632,Sánchez,Carlos Sánchez Jiménez,19/04/2001,Palma,def,2,41,9,0,0
+632,633,Juanmi,Joan Miquel Durán Oliver,29/04/2003,Palma,dav,1,2,0,0,0
+633,634,Peque,Aitor Ramírez Espejo,13/05/1991,Eivissa,mig,3,21,0,0,1
+634,635,Campins,Francesc Campins Bauzá,10/05/1990,Montuïri,mig,6,107,35,3,2
+635,636,Tarrés,Enric Tarrés Roselló,27/02/1990,Eivissa,def,4,14,2,0,1
+636,637,Rubén Martínez,Rubén Martínez Granja,08/12/1989,Maó,dav,12,320,54,3,41
+637,638,Ángel Lozano,Ángel Lozano Giménez,27/08/1992,Palma,por,1,2,0,0,0
+638,639,Reus,Bartolomé Reus Maura,02/07/1983,Palma,def,1,19,6,1,0
+639,640,Bigas,Pedro Bigas Rigo,15/05/1990,Palma,def,13,293,73,3,17
+640,641,Mingo,David Moll Mingorance,05/02/1991,Ciutadella de Menorca,def,1,2,0,0,0
+641,642,Ignasi,Ignacio Dalmedo Sintes,04/12/1992,Maó,dav,5,95,14,0,3
+642,643,Juanpe,Juan Pedro Berga Garzón,06/03/1990,Palma,dav,4,38,5,1,5
+643,644,Bardolet,Daniel Bardolet Pettersson,16/08/1991,Palma,dav,3,69,9,0,4
+644,645,Company,Gabriel Company Vives,16/02/1992,Maria de la Salut,def,7,115,35,4,1
+645,646,Calonge,Jaume Calonge González,14/03/1992,Palma,def,6,106,38,2,2
+646,647,Nico Baleani,Nicolás Baleani Springolo Serra,16/11/1992,Palma,mig,8,177,47,3,10
+647,648,Olmos,Víctor Martínez Olmos,21/08/1992,Palma,mig,5,100,15,0,0
+648,649,Abdón Prats,Abdón Roger Prats Bastidas,07/12/1992,Artà,dav,13,348,45,2,82
+649,650,Javi Seral,Javier Seral Gallego,22/01/1990,Palma,por,8,97,10,0,0
+650,651,Julio Huertas,Julio José Huertas Cifo,12/04/1981,Manacor,def,5,66,24,3,0
+651,652,Salas,Miguel Ángel Salas Bestard,07/06/1972,Lloseta,def,11,304,114,13,24
+652,653,Pons,Aitor Pons Goñalons,24/01/1991,Maó,dav,6,129,13,0,16
+653,654,Campins,Bartomeu Campins Florit,20/05/1992,Palma,def,1,2,0,0,0
+654,655,Tomillero,Samuel Tomillero Gutiérrez,12/07/1993,Eivissa,dav,2,5,1,0,0
+655,656,Amer,Martí Amer Pueyo,30/07/1993,Palma,por,3,9,2,0,0
+656,657,Mateo,Mateo Garcías Ventayol,18/10/1990,Palma,def,6,176,51,7,4
+657,658,Santandreu,Pere Santandreu Rosselló,02/01/1993,Palma,def,1,2,0,0,0
+658,659,Tià Sastre,Sebastià Sastre Català,21/06/1994,Vilafranca de Bonany,mig,7,109,20,1,3
+659,660,Arjona,Enrique Arjona Rodríguez,08/09/1989,Manacor,mig,1,18,10,2,0
+660,661,Barbón,Francisco José Barbón Grillo,01/04/1979,Artà,mig,1,34,14,1,6
+661,662,Bestard,Vicenç Bestard Gelabert,13/01/1994,Petra,def,1,1,0,0,0
+662,663,Caldentey,Rafael Caldentey Riera,10/11/1983,Manacor,def,1,27,5,2,2
+663,664,Piti,Xavier Darder Moll,08/01/1995,Artà,dav,1,1,0,0,0
+664,665,Fullana,Mateu Fullana Pascual,31/01/1995,Manacor,por,1,2,0,0,0
+665,666,Galmés,Bartolomé Galmés Amengual,12/07/1989,Manacor,dav,1,14,5,0,0
+666,667,Lluís,Lluís Garcia Garcia,09/11/1989,Palma,dav,1,19,3,0,0
+667,668,Gili,Gabriel Gili Palou,08/02/1991,Manacor,dav,2,61,12,0,5
+668,669,Morey,Bartomeu Morey Gomila,16/05/1993,Manacor,def,1,1,0,0,0
+669,670,Joan Marí,Joan Marí Torrejón,16/07/1993,Manacor,mig,1,1,0,0,0
+670,671,Julve,Abel Julve Garrido,12/06/1986,Manacor,mig,1,26,17,4,0
+671,672,Llull,Llorenç Llull Sansó,19/10/1988,Manacor,dav,1,27,5,2,1
+672,673,David García,David García Mut,19/11/1979,Porto Cristo,def,1,9,5,0,0
+673,674,Mut,Jaume Mut Riera,31/01/1985,Manacor,mig,1,25,4,0,1
+674,675,Petete,Juan Antonio Ortega Martínez,03/02/1981,Manacor,def,1,24,7,1,0
+675,676,Pareja,Alberto Pareja García,15/11/1994,Palma,mig,1,1,1,0,0
+676,677,Pujadas,Miquel Àngel Pujadas Vadell,02/01/1987,Manacor,mig,1,18,5,1,0
+677,678,Nico,Nicolás Rubio Sánchez,02/11/1987,Manacor,dav,3,106,11,1,21
+678,679,Vadell,Bartolomé Vadell Llull,30/11/1988,Porto Cristo,dav,1,13,5,1,0
+679,680,Veny,Gaspar Veny Galmés,06/01/1981,Manacor,por,3,88,16,3,0
+680,681,Vives,José Antonio Vives González,23/09/1987,Artà,por,2,5,2,0,0
+681,682,Vaquero,Alberto Vaquero Moll,12/03/1982,Ciutadella de Menorca,mig,1,18,4,1,2
+682,683,Barber,Joan Barber Enrich,31/08/1983,Alaior,dav,1,6,3,1,0
+683,684,Cutillas,Alejandro Cutillas Fanals,1993,Maó,por,1,1,0,0,0
+684,685,Olivés,Raúl Olivés Jiménez,15/10/1993,Maó,mig,1,2,0,0,0
+685,686,Seguí,Marc Seguí Gomila,02/04/1994,Maó,por,1,3,0,0,0
+686,687,Jonatan,Jonatan Seguí Barber,28/11/1993,Manacor,def,1,1,0,0,0
+687,688,Amate,Francisco Amate Jiménez,20/07/1982,Sa Pobla,mig,4,63,17,1,7
+688,689,Vallori,Guillermo Juan Vallori Grimalt,24/06/1982,Palma,def,5,120,18,0,3
+689,690,Carre,Damià Carreras Coll,30/12/1972,Maó,def,7,159,44,5,3
+690,691,Luque,José Luque Pérez,19/02/1972,Palma,mig,5,83,3,0,12
+691,692,Boli,Agustín Sánchez González,07/03/1967,Campos,dav,6,91,0,0,22
+692,693,López,José Ramón López Rodríguez,09/07/1972,Son Servera,por,3,85,6,2,0
+693,694,Quique,Guillermo Enrique Ferrer Schwender,11/10/1975,Palma,def,3,79,26,2,8
+694,695,Tuduri,Javier Tuduri Pons,04/01/1981,Maó,def,1,2,0,0,0
+695,696,Vílchez,Miguel Vílchez López,23/05/1980,Palma,mig,1,5,1,0,1
+696,697,Albertí,Pau Albertí Gómez,27/06/1991,Banyalbufar,def,1,3,0,0,1
+697,698,Álvaro,Álvaro de Dios García,08/02/1992,Esporles,def,5,71,15,0,1
+698,699,D'Hondt,Daniel Charles D'Hondt Pavón,04/08/1994,Palma,dav,1,0,0,0,0
+699,700,Miguel López,Miguel López López,07/06/1987,Palma,mig,1,18,2,0,1
+700,701,Campoy,Sergi Campoy Altés,24/03/1992,Palma,mig,2,61,17,0,1
+701,702,Femenías,Joan Femenías del Salto,19/08/1996,Manacor,por,9,113,8,0,0
+702,703,Ferrer,Mateu Ferrer Cabrer,07/11/1990,Inca,dav,4,132,26,1,15
+703,704,Vich,Joan Vich Caldés,26/06/1983,Palma,def,5,137,56,4,7
+704,705,Karg,David Karg Lara,17/02/1993,Palma,mig,2,51,8,1,3
+705,706,Pep Biel,Pep Biel Mas Jaume,05/09/1996,Sant Joan,mig,5,72,11,0,8
+706,707,Nene,Miguel Ángel Bosch Romera,26/12/1989,Palma,dav,1,13,5,1,1
+707,708,Oliver,Bernat Oliver Piriz,17/10/1993,Inca,mig,1,0,0,0,0
+708,709,Rosselló,Bernat Rosselló Enrich,20/04/1993,Son Servera,def,1,4,1,0,0
+709,710,Santandreu,Miguel Santandreu Nicolau,09/09/1996,Palma,dav,1,0,0,0,0
+710,711,Sanz,Sergio Sanz Moragues,24/03/1992,Palma,por,3,31,12,0,0
+711,712,Siquier,Pau Lluís Siquier Campins,13/04/1983,Inca,mig,1,18,5,1,0
+712,713,Tòfol,Cristòfol Torres Llobera,29/12/1993,Inca,mig,2,15,0,0,0
+713,714,Víctor,Víctor Sánchez Garrido,18/08/1982,Palma,def,1,30,12,2,0
+714,715,Barceló,Bartolomé Barceló Ramis,07/07/1994,Palma,por,1,0,0,0,0
+715,716,Escrich,Héctor Escrich Carrasco,21/04/1994,Palma,dav,4,51,17,0,2
+716,717,Campins,Joan Campins Vidal,24/06/1995,Palma,def,9,119,16,1,2
+717,718,Ángel Sánchez,Ángel Pedro Sánchez Marín,03/04/1994,Palma,por,1,0,0,0,0
+718,719,Brandon,Brandon Thomas Llamas,04/02/1995,Santanyí,dav,9,208,54,1,43
+719,720,Ángel García,Ángel Antonio García Fernández,16/07/1988,Palma,dav,1,25,4,1,2
+720,721,Bisquerra,Tomás José Bisquerra Márquez,16/03/1983,Palma,mig,1,26,6,0,0
+721,722,Contreras,José Manuel Contreras Campaña,22/02/1978,Palma,mig,1,28,4,0,1
+722,723,Fons,Antoni Fons Amengual,23/05/1990,Manacor,por,1,14,1,1,0
+723,724,Forteza,Miguel Forteza Pericas,16/07/1990,Binissalem,def,2,54,15,0,3
+724,725,Gómez,Miguel Gómez Pons,05/03/1993,Palma,dav,1,3,0,0,0
+725,726,Mondéjar,Ramón Miguel Mondéjar Pou,01/03/1992,Palma,mig,1,2,1,0,0
+726,727,Moyá,Jaume Moyá Jaume,11/03/1995,Binissalem,mig,1,8,0,0,1
+727,728,Pastor,Raúl Pastor Gil,24/08/1993,Palma,def,1,0,0,0,0
+728,729,Paco Plata,Francisco José Plata Sañudo,30/11/1983,Palma,mig,1,34,13,0,3
+729,730,Tito,Antonio Rodríguez Ramos,13/03/1992,Palma,dav,2,41,2,0,4
+730,731,Salas,Miguel Ángel Salas Ferrer,02/10/1981,Binissalem,def,1,21,10,1,0
+731,732,Simonet,Miguel Simonet Cladera,23/01/1991,Alaró,dav,1,1,0,0,0
+732,733,Toni Salas,Antonio Salas Comas,30/11/1978,Binissalem,def,1,23,6,0,0
+733,734,Vachiano,Jaime Vachiano Toribio,20/05/1995,Binissalem,por,1,0,0,0,0
+734,735,Vasco,Francisco Javier Vasco Romera,20/08/1974,Palma,mig,4,77,21,3,2
+735,736,Quetglas,David Quetglas Tortosa,16/07/1973,Inca,mig,1,15,6,0,0
+736,737,Toro,Francisco Toro Frontera,29/01/1972,Palma,def,4,93,22,4,2
+737,738,Vera,Juan Francisco Vera Montero,05/10/1964,Felanitx,mig,9,250,50,6,31
+738,739,Font,Bernat Font Ferrer,19/03/1972,Ariany,por,2,47,4,0,0
+739,740,Enseñat,Francisco José Enseñat Crohen,18/06/1979,Port de Sóller,dav,1,1,0,0,0
+740,741,Ravi,Ravi Bullock Mansilla,19/07/1979,Sóller,por,1,1,0,0,0
+741,742,Fontanet,Miguel Fontanet,19/12/1980,Sóller,por,1,0,0,0,0
+742,743,Mel,Miguel Carbonell,30/11/1980,Sóller,def,1,0,0,0,0
+743,744,Farrando,Manuel Farrando Stiepovich,24/04/1995,Ciutadella de Menorca,dav,9,184,54,6,4
+744,745,Xiscu,Francisco Martínez Anglada,06/03/1995,Ciutadella de Menorca,def,5,58,9,1,2
+745,746,Marcos,Marcos Martínez Vicens,03/06/1991,Palma,por,1,3,1,0,0
+746,747,Valens,Jaume Valens Cardell,29/02/1996,Palma,por,10,128,12,0,0
+747,748,Gost,Miquel Gost Socias,29/07/1995,Sa Pobla,def,1,0,0,0,0
+748,749,Gurri,José Antonio Gurrionero Muñoz,05/08/1990,Palma,dav,1,14,4,0,1
+749,750,Xavi Jiménez,Francisco Javier Jiménez Jiménez,25/02/1990,Palma,dav,1,4,2,0,0
+750,751,Sampedro,Juan Andrés Sampedro García,17/09/1994,Palma,dav,1,9,0,0,0
+751,752,Dani López,Daniel López Cendrós,01/01/1994,Inca,por,1,2,0,0,1
+752,753,Perelló,Jordi Perelló Coll,14/05/1996,Llubí,def,1,1,0,0,0
+753,754,Bruno,Manuel Bruno Gómez,13/10/1976,Palma,def,1,3,1,0,0
+754,755,Toni Martí,Antoni Martí Soler,23/04/1973,Palma,mig,1,18,10,0,0
+755,756,Jordi,Jordi Borrell Jaume,22/07/1972,Palma,mig,1,26,14,1,0
+756,757,Dani,Daniel Pleguezuelo Pellicero,10/05/1973,Palma,mig,2,41,13,1,3
+757,758,Gaspar,Gaspar Oliver-Penalba Ferrer,05/01/1975,Palma,dav,1,21,10,0,0
+758,759,Montse,Montserrate Pascual Femenias,04/10/1973,Manacor,def,1,14,3,0,0
+759,760,Domingo,Domingo Villa Izquierdo,1977,Palma,por,1,13,3,1,0
+760,761,Tirado,Raúl Tirado López,30/12/2002,Palma,dav,1,0,0,0,0
+761,762,Bagur,Pedro Bagur Casanovas,26/08/1969,Ciutadella de Menorca,mig,2,55,6,0,12
+762,763,Julián Marcos,Julián Marcos Marí,04/12/1970,Eivissa,mig,2,67,10,0,2
+763,764,Edu,Eduardo Páez Rosa,18/04/1975,Eivissa,dav,1,13,4,0,0
+764,765,Daroca,Antonio Daroca Ramón,21/02/1974,Eivissa,dav,1,25,6,1,1
+765,766,Oliver,Oliver Torres Bulckens,17/09/1973,Eivissa,por,2,27,0,0,0
+766,767,Llodrá,Antonio Llodrá Mas,23/10/1967,Manacor,def,2,46,2,0,0
+767,768,Matías,Matías Ramis Mas,18/06/1964,Maria de la Salut,def,3,105,13,0,7
+768,769,Javier,Francisco Javier Cutillas Rosselló,26/11/1965,Palma,def,4,107,8,0,3
+769,770,Tomeu Riera,Bartolomé Riera Sureda,30/10/1969,Manacor,mig,2,42,13,1,0
+770,771,Rafel,Rafael Juan Garcías Manresa,18/09/1973,Campos,mig,2,39,7,0,2
+771,772,Copoví,Rafael Copoví Martínez,16/04/1972,Manacor,mig,2,26,8,2,1
+772,773,Tófol,Tófol Gomila Bauçà,24/08/1967,Manacor,mig,3,54,8,0,3
+773,774,Servera,Gabriel Servera Brunet,13/09/1970,Sant Llorenç des Cardassar,mig,4,93,19,2,5
+774,775,Gerardo,Gerardo Calamardo de la Fuente,22/10/1972,Palma,mig,2,21,7,0,1
+775,776,Gomila,Antonio Gomila Galmés,23/03/1970,Manacor,mig,2,39,6,1,1
+776,777,Casals,José Luis Casals Salas,12/08/1969,Manacor,dav,2,51,8,1,1
+777,778,Onofre,Onofre Riera Montserrat,30/11/1963,Manacor,dav,3,112,7,0,25
+778,779,Femenías,Gabriel Femenías Estelrich,21/10/1968,Sant Llorenç des Cardassar,dav,5,139,20,4,33
+779,780,Font,Pedro Font Esteva,,Manacor,mig,1,1,0,0,0
+780,781,Xisco Varón,Francisco Varón Alfaro,18/10/1975,Manacor,mig,1,1,0,0,0
+781,782,Liébana,Manuel Liébana Gómez,18/04/1971,Palma,mig,3,81,9,0,7
+782,783,Zamora,Miguel Zamora Pujol,09/07/1969,Palma,por,4,102,28,2,6
+783,784,Dani,Daniel Quevedo Coll,13/02/1971,Maó,def,1,2,0,0,0
+784,785,Adriano,Adriano Marín Sirvent,26/03/1966,Maó,def,6,163,33,4,6
+785,786,Olvera,Guillermo Olvera Coll,15/11/1970,Maó,por,1,13,5,1,0
+786,787,Olaya,Joaquín Fernández Olaya,25/06/1974,Maó,mig,1,1,0,0,0
+787,788,Teixidor,Fernando Teixidor Serrano,27/01/1967,Maó,mig,5,142,21,0,3
+788,789,Carlos,Carlos Gomila Pons,20/10/1973,Maó,dav,1,12,1,0,0
+789,790,Tiago,Santiago Sansaloni Coll,29/12/1963,Ferreries,dav,6,192,10,0,31
+790,791,Tent,Francisco Tent Camps,10/06/1972,Maó,mig,1,28,7,1,1
+791,792,Jacob,Jacob Pons Hernández,05/06/1976,Eivissa,mig,1,1,0,0,0
+792,793,Jorge,Jorge Oliver Pérez,01/09/1974,Eivissa,def,1,4,1,0,0
+793,794,Juanmi,Juan Miguel Pons Sintes,01/03/1972,Maó,def,1,18,2,1,0
+794,795,Escobar,José Escobar Salom,13/08/1971,Palma,def,2,32,7,0,0
+795,796,Costa,Constantino Company Moreno,16/08/1971,Palma,mig,2,6,1,0,0
+796,797,Nono,Antonio Santaella Ruiz,03/11/1970,Palma,mig,2,9,1,0,0
+797,798,Marín,Francisco Marín Ibars,05/09/1970,Palma,dav,2,35,3,0,0
+798,799,Raúl,Jaime Raúl Olmos Casamayor,10/06/1971,Palma,por,3,79,12,1,9
+799,800,Kiko,Francisco Sánchez Valero,29/09/1969,Manacor,def,1,6,1,0,0
+800,801,Mesquida,Antonio Mesquida Mascaró,17/12/1960,Manacor,def,5,153,22,1,0
+801,802,Nadal,Rafael Nadal Homar,24/08/1963,Manacor,mig,3,103,19,2,8
+802,803,Obrador,Bartolomé Obrador Perelló,12/11/1964,Campos,mig,9,255,18,0,27
+803,804,Tent,Francisco Tent Petrus,11/01/1971,Manacor,mig,1,16,5,0,1
+804,805,Montserrat,Francisco Javier Montserrat Serra,16/11/1967,Palma,por,2,63,14,1,1
+805,806,Canet,Miguel Canet Cortés,30/10/1974,Palma,mig,1,1,0,1,0
+806,807,Pascual,Pascual Rosselló,,Capdepera,dav,1,2,0,0,0
+807,808,Franch,Juan Franch Pons,16/08/1969,Sa Pobla,dav,3,40,4,0,1
+808,809,Mellado,Diego Mellado Crown,1973,Son Servera,def,1,1,0,0,0
+809,810,Galletero,Manuel Galletero Montoro,23/03/1967,Manacor,mig,3,45,13,1,2
+810,811,Navarrete,Francisco M. Navarrete Núñez,12/07/1968,Palma,por,2,19,8,1,0
+811,812,Quevedo,Alex Quevedo Barber,28/04/2004,Maó,mig,1,0,0,0,0
+812,813,Alberto,Albert Miguel Escandell,05/05/1957,Eivissa,dav,2,17,0,0,0
+813,814,Alzamora,Víctor Julián Alzamora Verger,03/06/1956,Palma,def,1,14,0,0,0
+814,815,Mut II,Juan Antonio Mut Mut,25/11/1959,Palma,dav,1,3,0,0,0
+815,816,Pepín,José Antonio Guilabert Barceló,21/12/1952,Palma,def,1,10,1,0,0
+816,817,Pou,Arnau Pou Thomas,30/03/1958,Palma,dav,1,15,2,0,1
+817,818,Quini,Joaquín Javier Campos Rodríguez,22/02/1957,Palma,dav,1,7,0,0,0
+818,819,Riutort,Juan Riutort Bibiloni,29/08/1955,Palma,mig,1,6,0,0,0
+819,820,Alomar,Bernat Alomar Carilimdiliman,23/01/1987,Palma,dav,6,138,53,4,4
+820,821,Oller,Joan Oller García,09/12/1987,Llucmajor,por,5,70,14,1,1
+821,822,Perales,José Perales Nájera,25/05/1993,Palma,por,10,104,12,0,0
+822,823,Efrén,Efrén Fernández Carrión,22/03/1988,Eivissa,dav,5,28,1,2,0
+823,824,Sergi Guardiola,Sergio Guardiola Navarro,29/05/1991,Manacor,dav,11,291,43,1,73
+824,825,Llonga,José Luis Villalonga Marqués,12/02/1989,Ciutadella de Menorca,mig,1,10,2,1,1
+825,826,Bover,Rubén Bover Izquierdo,24/06/1992,Palma,por,5,106,14,1,10
+826,827,Linares,Javier Linares Bullejos,11/06/1978,Palma,def,3,44,5,1,0
+827,828,Aitor,Aitor Iván Espinar Sierra,27/05/1978,Eivissa,mig,3,31,6,1,0
+828,829,Jaime,Jaime García Ventayol,12/12/1981,Palma,dav,1,3,0,0,0
+829,830,Felipe,Felipe Miguel Bosch Isabel,06/11/1969,Palma,def,2,57,4,0,3
+830,831,Estorchs,David Estorchs Viedma,27/10/1967,Palma,dav,2,35,7,1,0
+831,832,Palmer,Luis Profitós Palmer,26/01/1969,Palma,def,2,26,3,1,5
+832,833,Manolín,Manuel Recio Cívico,02/10/1968,Eivissa,dav,1,1,0,0,0
+833,834,Berto,Norberto Ribas Vicaria,15/04/1960,Eivissa,def,6,136,9,1,25
+834,835,Tur,José Antonio Tur Gil,24/03/1967,Palma,def,4,70,23,1,3
+835,836,Toni,Antonio Mercadal Huguet,13/08/1966,Maó,def,1,7,2,0,0
+836,837,Santi,Santiago Cardona Camps,30/09/1968,Maó,def,2,5,0,0,0
+837,838,Fortunato,Juan José Fortunato Cozar,10/01/1965,Palma,mig,5,101,31,2,0
+838,839,Capó,Rafael Capó Perelló,09/11/1960,Inca,mig,6,128,19,3,3
+839,840,Sebastián,Sebastián Frontera Catalá,12/01/1964,Santa María del Camí,def,5,144,12,2,4
+840,841,Fernando,Fernando Fernández Pérez,27/05/1964,Palma,dav,1,10,3,0,0
+841,842,Frau,Jaime Frau Moreno,14/10/1966,Felanitx,mig,5,103,17,4,12
+842,843,Martínez Veny,José Carlos Martínez Veny,12/05/1971,Palma,dav,2,27,0,0,0
+843,844,Magaña,Miguel Magaña Mas,01/02/1969,Llucmajor,mig,1,20,1,0,2
+844,845,Luis,Luis Miguel Expósito Sánchez,11/11/1967,Palma,por,1,10,0,0,0
+845,846,Sastre,Guillermo Sastre Guillén,13/02/1965,Palma,mig,2,32,6,0,0
+846,847,Jordi,Jordi Herrera Serra,10/12/1973,Eivissa,dav,1,4,0,0,0
+847,848,Susarte,Miguel Susarte Rodríguez,,Palma,dav,1,8,1,0,1
+848,849,Penyafort,Antoni Penyafort Aynat,20/02/2002,Palma,dav,1,9,0,0,0
+849,850,Jay Romero,Jay Kai Romero Sánchez Reinoso,12/10/2002,Eivissa,def,1,0,0,0,0
+850,851,López,David López Guijarro,03/02/2003,Palma,dav,1,12,4,0,0
+851,852,Mascaró,Pau Mascaró Ruiz,20/10/2004,Palma,dav,1,1,1,0,0
+852,853,Montalbán,Adrián Montalbán Ribas,26/01/2000,Eivissa,mig,1,12,0,0,0
+853,854,Montiel,Luis Montiel Rodríguez,19/01/2004,Palma,def,1,0,0,0,0
+854,855,Valverde,David Valverde Juan,29/01/2000,Palma,dav,1,10,2,0,0
+855,856,Cerdà,Josep Cerdà Amengual,04/02/2003,Pollença,dav,1,9,1,0,0
+856,857,Alorda,Miquel Alorda Sampol,13/06/2001,Palma,por,1,9,0,0,1
+857,858,Homar,Gaspar Homar Bennasar,,Palma,dav,1,0,0,0,0
+858,859,Mario,Mario Sánchez Ramírez,20/07/2001,Palma,dav,1,7,1,0,0
+859,860,Mercadal,Adrià Mercadal Mercadal,21/03/2000,Menorca,mig,1,7,0,0,1
+860,861,Ramón,Gabriel Ramón Florit,08/03/1964,Palma,dav,9,248,30,1,60
+861,862,Colomer,Miguel Colomer Nadal,07/07/1924,Manacor,mig,3,22,0,0,4
+862,863,Brondo,Jaime Brondo Ferrer,16/09/1922,Palma,mig,5,38,0,2,7
+863,864,Planas,Juan Planas Ferragut,10/11/1957,Llubí,def,1,19,2,0,0
+864,865,Sureda,Antoni Sureda Jiménez,22/02/1999,Palma,,1,12,0,0,1
